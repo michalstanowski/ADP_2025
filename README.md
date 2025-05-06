@@ -11,11 +11,10 @@ Architecture of large projects in bioinformatics (2025)
 ### Project Members
 Update the table (today you need to fill at least the first two columns)
 
-| Surname Name | URL (github) | Project acronim | Project full name | Other members |
-| --- | --- | --- | --- | --- |
-| Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) |  To Be Announced | all students |
-| Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | | | |
-| Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
+| Surname Name | URL (github) | Project acronim | Other members |
+| --- | --- | --- | --- |
+| Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) | all students |
+| Stanowski Michał | [michal-stanowski](https://github.coom/michal-stanowski) | JAMS | Joanna Dąbrowska, Anna Szymik, Michał Stanowski, Stanisław Gołębiewski|
 
 
  
